@@ -17,13 +17,13 @@ R Programming Practice Questions
   c. Extract data(OCCUPATION) from the data frame.
   d. Expand data frame include SALARY
   
-  6) Demonstrate the use of functions 
+3) Demonstrate the use of functions 
        a. Develop a simple calculator in R.
        b. Write a function called kelvin_to_celsius() that takes a temperature in Kelvin and returns 
             that temperature in Celsius (Hint: To convert from Kelvin to Celsius you subtract 273.15)
        c. Demonstrate the creation of a complex number in R.
        
-7)Write the Commands to Perform Basic Arithmetic in R.
+4)Write the Commands to Perform Basic Arithmetic in R.
      a.	Calculate the square roots of 729
     b.	In each case, what is the value of x?  (Try to think it through before you try it in R)
 	    i)x<-2-1*2
